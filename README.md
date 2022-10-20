@@ -24,6 +24,14 @@ STEPS DONE ON PROJECT:-
       6.most are working professionals etc.
       7.lead score is useful for generating better converastion rate.
       
+  Detailes of files:-
+      1. Assignment qestions and answer of analysis 
+      2. Lead score case study ppt to pdf file:- presentation of inferences and work done on python file
+      3. ipynb file :- pyhton commented file of case study 
+      4.lead data dictonary is for understanding of columns 
+      5.lead.csv:-data worked on 
+      6.Readme.md:- work on highlites of data 
+      7. summary:- summaries report of worked on file(insights,inferrences of pynb file, conclusion)  
       
 
 
